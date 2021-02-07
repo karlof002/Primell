@@ -1,12 +1,4 @@
-﻿/***********************************************************************************************
- * Übungsnr:        06                                     
- * Programmname:    PrimeNumbers                                  
- * Autor:           karlof002                               
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Gibt alle Primzahlen zwischen 1 und 10000 aus
- * ************************************************
-*/
+
 using System;
 namespace PrimeNumbers
 {
